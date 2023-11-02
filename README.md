@@ -27,7 +27,7 @@ This layer presents the app's content and triggers the events that modifies the 
     - These are application pages
 - #### State Management 
   - state management files eg bloc, riverpod, getx, provider etc
--  #### Widgets 
+- #### Widgets 
   -  widgets we built or used on the pages
 
   ### DOMIAN LAYER   
